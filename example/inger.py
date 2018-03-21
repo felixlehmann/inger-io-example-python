@@ -9,7 +9,7 @@ Examples:
 import json, requests, sys
 
 def load_data():
-    url = 'http://inger.io'
+    url = 'https://inger.io'
     inger_version="v1"
     vendor="facebook"
     service="graph"
